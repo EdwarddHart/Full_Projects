@@ -2,5 +2,5 @@ The goal of this repository is to store my full trading projects, with a view to
 
 Completed Projects:
 - Backtested pairs trading strategy for Brent/WTI
-- Created machine learning-based trading strategy (Random Forest) that predicts when the VIX (Volatility Index) will rise and uses this to determine long/short positions on SPY (S&P 500 ETF). 
+- Developed a machine learning trading strategy using Logistic Regression to predict VIX (Volatility Index) rises, enabling long/short positioning on SPY (S&P 500 ETF) based on macro volatility signals, derived from the US 10 year treasury yield.
   
